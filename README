@@ -1,0 +1,3 @@
+This is my part of a project written in 2008 for Functional Programming course. It is implementation of GIF image format. The whole project was a converter beetwen GIF and BMP, with ability to apply some filters. The filters, color quantization and BMP implementation were not written by me, so I don't include them here.
+
+Licensed under MIT license.
